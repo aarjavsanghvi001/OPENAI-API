@@ -1,0 +1,8 @@
+Steps to create/setup environmental variable on MacOS - Ventura 13.0
+
+1. Open Terminal
+2. Type - touch ~/.zprofile
+3. Type - open ~/.zprofile 
+4. Type - export variable_name = "variable_value"
+5. Close the window
+6. Launch the python environment now and you should be good to go
