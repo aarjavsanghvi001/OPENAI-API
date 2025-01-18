@@ -2,7 +2,7 @@ The files below progress from basics to advanced showing ways to use OPENAI plat
 
 1. OPENAI - Prompting.ipynb
   This file should be used to learn how to setup the OPENAI API and learn how to iterate over the prompts to get better results.
-  PS: A couple of code chunks show error as I hate exhauseted my rate limits. This would not pose to be a problem incase someone is using the paid version on gpt.
+  PS: A couple of code chunks show error as I have exhauseted my rate limits. This would not pose to be a problem incase someone is using the paid version on gpt.
 
 2. OPENAI - Chatbot System
   This file is for intermediate users. I've developed an automated chatbot that helps customers know more about the products being sold by an electronics store using only prompts. 
@@ -12,5 +12,5 @@ The files below progress from basics to advanced showing ways to use OPENAI plat
   PS: If someone wants to build on top of this system, then they can use a text to speech AI and deploy a full blown automated OrderBot.
 
 4. OPENAI - Chat with Document
-  Rhis file is for advanced users. This project does exactly what the ChatGPT Plus does. The only caveat is that this uses gpt-3.5-turbo. However, companies can use this script to deploy this script to allow their customers/employees to upload documents ask questions to the model.
+  This file is for advanced users. This project does exactly what the ChatGPT Plus does. The only caveat is that this uses gpt-3.5-turbo. However, companies can use this script to deploy this script to allow their customers/employees to upload documents ask questions to the model.
   PS: The future iteration of this project would be to create a GUI that makes it easier for users to iteract with the script.
